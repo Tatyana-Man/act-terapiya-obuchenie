@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://act-terapiya-obuchenie.vercel.app/sitemap.xml
